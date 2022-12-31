@@ -1,0 +1,39 @@
+/* body{
+    color: #fff;
+    background: #000;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    height: 100vh;
+} */
+
+body{
+    background-color: #000;
+}
+.head a{
+    font-size: 20px;
+    color: #fff;
+    margin: 5px;
+    font-family: inter;
+    text-decoration: none;
+    
+}
+
+.signup h1{
+color: rgb(45, 162, 82);
+    
+        font-size: 64px;
+        font-family: inter;
+        font-style: normal;
+        font-weight: 400;
+        line-height: 77px;
+    }
+
+    .card{
+        margin: 20px;
+        color: rgb(223, 97, 210);
+        width: 350px;
+        height: 350px;
+        margin-left: 450px;
+    }
